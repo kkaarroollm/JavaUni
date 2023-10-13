@@ -1,1 +1,3 @@
-.DS_Store
+include first-task/.gitignore
+include Task2/.gitignore
+
